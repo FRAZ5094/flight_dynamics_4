@@ -123,7 +123,7 @@ mp=ma+th*ht;
 %
 f(1,j)=x-mass*9.81*sin(theta);
 f(2,j)=z+mass*9.81*cos(theta);
-f(3,j)=mp;
+f(3,j)=;
 end
 %
 % Calculate the Jacobian by central differences
